@@ -1,0 +1,2 @@
+
+Arduino ESP32 คือบอร์ดการพัฒนาฮาร์ดแวร์ที่ใช้ชิป ESP32 จาก Espressif Systems และมีการสนับสนุนโดย Arduino IDE (Integrated Development Environment) เพื่อให้สามารถเขียนโปรแกรมได้ง่าย ๆ ด้วยภาษา C/C++ เหมือนกับการพัฒนาโปรแกรมบน Arduino Uno หรือบอร์ด Arduino อื่น ๆ
